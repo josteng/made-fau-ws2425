@@ -1,3 +1,6 @@
 .DS_Store
 /data/*
 !/data/.gitkeep
+
+# Exclude result of ex1
+airports.sqlite
